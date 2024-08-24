@@ -16,5 +16,5 @@
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://vuejs.org/guide/introduction.html" target="_blank" rel="noreferrer"> <img src="https://objectcomputing.com/files/5415/1447/3558/vue.png" alt="vuejs" width="35" height="35"/> </a> 
-<a href="https://tailwindcss.com/docs/installation" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-2048x1229-u8dzt4uh.png" alt="tailwind" width="40" height="35"/> </a>
+<a href="https://miro.medium.com/v2/resize:fit:632/1*5QD8DKhOjRe-gcYjozlLNQ.png" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-2048x1229-u8dzt4uh.png" alt="tailwind" width="40" height="35"/> </a>
 </p>
