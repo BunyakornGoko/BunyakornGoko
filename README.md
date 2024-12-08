@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bunyakorn Pornsombatpaibool</h1>
-<h3 align="center">I want to be a FullStack Developer</h3>
+<h3 align="center">Software engineer intern at ODDS</h3>
 
 - ⚡ Fun fact **play computer , play guiter**
 
