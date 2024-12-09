@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bunyakorn Pornsombatpaibool</h1>
 <h3 align="center">Software engineer intern at ODDS</h3>
 
-- ⚡ Fun fact **play computer , play guiter**
+- ⚡ Fun fact **Investment**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
