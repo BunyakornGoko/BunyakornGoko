@@ -22,3 +22,5 @@
 <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> 
 </p>
 </p>
+
+![Codewars](https://github.r2v.ch/codewars?user=BunyakornGoko&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
