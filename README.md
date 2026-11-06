@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bunyakorn Pornsombatpaibool</h1>
-<h3 align="center">Software Engineer Intern at ODDS</h3>
+<h3 align="center">Software Engineer at ODT</h3>
 
 - ⚡ Fun fact **Investment**
 
